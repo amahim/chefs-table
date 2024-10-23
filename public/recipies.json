@@ -1,0 +1,35 @@
+[
+      {
+        "recipe_id": "001",
+        "recipe_name": "Spicy Chicken Stir Fry",
+        "image": "https://ibb.co.com/q7yWLcv",
+        "short_description": "A quick and easy spicy chicken stir fry with a rich blend of soy sauce and basil.",
+        "ingredients": [
+          "550 g chicken",
+          "120 ml soy sauce",
+          "200 g basil leaf",
+          "400 g mushroom",
+          "2 tbsp chili paste",
+          "1 onion, sliced"
+        ],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": "002",
+        "recipe_name": "Vegetarian Pasta",
+        "image": "https://ibb.co.com/PrHGVZd",
+        "short_description": "A light and healthy pasta dish with fresh vegetables and olive oil.",
+        "ingredients": [
+          "300 g pasta",
+          "2 bell peppers, diced",
+          "1 zucchini, sliced",
+          "100 g cherry tomatoes",
+          "3 tbsp olive oil",
+          "Salt and pepper to taste"
+        ],
+        "preparing_time": "25 min",
+        "calories": "280 calories"
+      }
+]
+  

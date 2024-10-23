@@ -1,0 +1,7 @@
+.banner{
+    background-image: url('../../assets/banner.png');
+    background-repeat: none;
+    background-size: cover;
+    background-position: contain;
+    border-radius: 20px;
+}
