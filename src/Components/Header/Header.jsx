@@ -61,7 +61,7 @@ const Header = () => {
             {/* our recipies */}
             <div className='w-3/5 mx-auto space-y-4 text-center py-10'>
                 <h3 className='font-bold text-xl md:text-2xl'>Our Recipes</h3>
-                <p className='text-gray-600'>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque.</p>
+                <p className='text-gray-600 md:text-base text-[12px]'>Lorem ipsum dolor sit amet consectetur. Proin et feugiat senectus vulputate netus pharetra rhoncus. Eget urna volutpat curabitur elementum mauris aenean neque.</p>
             </div>
         </div>
     );
